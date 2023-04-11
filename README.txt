@@ -67,6 +67,6 @@ Required Python Libraries:
 	-ast (used to properly load original .csv's)
 	-numpy
 	-IPython.display (play audio files)
-	-scipy
+	-scikit learn
 
 
