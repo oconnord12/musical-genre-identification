@@ -55,7 +55,9 @@ Jupyter Notebooks: The notebooks are ordered by the number appearing first
 Python files:
 	-myfunction: stores a single function used throughout the notebooks
 
-
+PDFs:
+	-Final capstone report
+	-Final presentation slides
 	
 Required Python Libraries:
 	-Pandas
