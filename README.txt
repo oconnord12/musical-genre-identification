@@ -69,4 +69,4 @@ Required Python Libraries:
 	-IPython.display (play audio files)
 	-scikit learn
 
-
+A special thank you to my mentors and peers at BrainStation for all the support and help throughout this project. 
