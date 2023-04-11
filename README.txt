@@ -1,4 +1,4 @@
-# music-genre-prediction
+# musical-genre-identification
 Dan O'Connor
 oconnord6@gmail.com
 https://github.com/oconnord12
