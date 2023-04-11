@@ -3,7 +3,7 @@ Dan O'Connor
 oconnord6@gmail.com
 https://github.com/oconnord12
 
-Music genre prediction - prediciting musical genres based off acoustic features. 
+Musical genre identification - identifying musical genres based soley off acoustic features. 
 
 This project I endeavored to predict musical genres from a wide array of pre-extracted acoustic features using various ML classification models. The acoustic features
 were extracted from a 30 second clip of over 100,000 songs on Free Music Archieve. The feature extractions were completed by Michaël Defferrard in a paper titled 
